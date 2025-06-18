@@ -1,1 +1,1 @@
-# Veritas-AI
+# Energy Consumption EDA
